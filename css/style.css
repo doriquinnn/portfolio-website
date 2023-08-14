@@ -152,13 +152,14 @@
 }
 
 .site-main .brand-area .experience-area .bg-panel{
-    position: absolute;
+    position: relative;
     left: -190px; top: 0%;
-    background: #e029290a;
+    background: #6e10100a;
     width: 400px;
     height: 400px;
     margin-left: 340px;
-    z-index: -1;
+    margin-top: -340px;
+    z-index: 3;
 }
 
 .site-main .brand-area .experience-area .years-area .years{
