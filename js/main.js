@@ -18,4 +18,9 @@ $(document).ready(function(){
 
     $('.project-area .button-group #btn1').trigger('click');
 
+    $('.project-area .grid .test-popup-link').magnificPopup({
+        type: 'image',
+        gallery:{enabled:true}
+      });
+
 });
