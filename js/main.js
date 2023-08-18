@@ -16,5 +16,6 @@ $(document).ready(function(){
 
     })
 
+    $('.project-area .button-group #btn1').trigger('click');
 
 });
