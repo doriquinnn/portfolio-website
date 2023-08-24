@@ -17,7 +17,7 @@
     padding: 1rem 10rem;
 }
 
-.header_area.main-menu .navbar-item .nav-link{
+.header_area .main-menu .navbar-nav a.nav-link {
     font: normal 500 15px/2px var(--roboto);
     text-transform: uppercase;
     padding: 1.7rem;
