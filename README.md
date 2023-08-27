@@ -1,5 +1,7 @@
 # portfolio-website
 
+<h2>Breakdown of the portfolio website</h2>
+
 Navigation Menu & Banner Area 
 ![image](https://github.com/doriquinnn/portfolio-website/assets/94002238/f9a70131-25ec-40fe-baf1-637d37f8fd33)
 
